@@ -1,0 +1,26 @@
+body {
+    background-color: #aad4d6;
+}
+
+#container {
+   background-color: #df7731;
+   border: 5px solid #161615;
+   border-radius: 50px;
+   height: 275px;
+   width: 750px;
+   margin: auto;
+   text-align: center;
+}
+
+p, #counter {
+   color: rgb(19, 1, 1);
+}
+
+#input {
+   width: 100px;
+   margin: 25px auto;
+}
+
+#btn {
+   margin: 25px auto auto 5px;
+}
